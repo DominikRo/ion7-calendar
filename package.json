@@ -1,5 +1,5 @@
 {
-  "name": "ion7-calendar",
+  "name": "@exeevo/ion2-calendar",
   "version": "3.6.29",
   "description": "A date picker component for ionic 7 ",
   "main": "./dist/index.js",
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DominikRo/ion7-calendar.git"
+    "url": "git+https://github.com/guramrit-dhillon/ion7-calendar.git"
   },
   "devDependencies": {
     "@angular/common": "15.2.8",
@@ -73,7 +73,7 @@
     }
   },
   "bugs": {
-    "url": "https://github.com/DominikRo/ion7-calendar/issues"
+    "url": "https://github.com/guramrit-dhillon/ion7-calendar/issues"
   },
-  "homepage": "https://github.com/DominikRo/ion7-calendar#readme"
+  "homepage": "https://github.com/guramrit-dhillon/ion7-calendar#readme"
 }
